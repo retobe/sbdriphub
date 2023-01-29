@@ -1,0 +1,30 @@
+.who,
+h1 {
+  text-align: center;
+}
+
+.card {
+    width: 15rem;
+    background-color: rgb(255, 221, 0);
+    height: 5rem;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.card-avatar img{
+    width: 70px;
+    height: 70px;
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    box-shadow: 2px 5px 8px rgb(255, 166, 0);
+    border-radius: 50%;
+}
+
+.card-title p{
+    font-size: 20px;
+    float:right;
+    margin-top: 1.75rem;
+    margin-right: 3.5rem;
+    color:rgb(255, 128, 0);
+}
